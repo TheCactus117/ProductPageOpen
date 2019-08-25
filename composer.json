@@ -3,6 +3,7 @@
     "license": "MIT",
     "type": "magento2-module",
     "description": "Magento 2 module : Open product page from admin",
+    "version": "1.0.0",
     "require": {
         "php": ">=5.6.0"
     },
@@ -13,5 +14,6 @@
         "psr-4": {
             "TheCactus117\\ProductPageOpen\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev"
 }

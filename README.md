@@ -6,3 +6,7 @@ Add a button in product page edition in backend to open product page in frontend
 
 ## Configuration
 None
+
+## Translation
+* FR
+* EN
